@@ -26,7 +26,7 @@ If you're able to, add `"trace": true` to your `launch.json` and reproduce the i
 
 -->
 
-**VS Code Version:** Replace me!
+**VS Code Version:** Replace me
 
 **Additional context**
 Add any other context about the problem here.
